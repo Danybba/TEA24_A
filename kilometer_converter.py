@@ -5,7 +5,7 @@ Bitte schreibe das Programm'''
 # Date: 16.01.2025
 
 ### CONSTANTS
-FACTOR = 1.609344 # this is the factor miles to km
+FACTOR = 1.60934 # this is the factor miles to km
 
 ### PROGRAMM
 
@@ -15,5 +15,5 @@ miles = float(input("Enter miles: "))
 # Process
 km = miles * FACTOR  
 
-# Output
+### Output
 print("This is your result in km: " + str(km))
