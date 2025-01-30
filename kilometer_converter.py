@@ -10,7 +10,7 @@ FACTOR = 1.60934 # this is the factor miles to km
 ### PROGRAMM
 
 # Inputs
-miles = float(input("Enter miles: "))
+miles = float(input("Please Enter miles: "))
 
 # Process
 km = miles * FACTOR  
