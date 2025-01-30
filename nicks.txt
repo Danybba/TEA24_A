@@ -1,11 +1,13 @@
 Danybba
 Florian-Germann
 Melvin Zeuner
+<<<<<<< Updated upstream
 Thomas Martin
 TeddyHDYT
 
 
 
 
-
 Brizzi
+=======
+>>>>>>> Stashed chang
