@@ -27,7 +27,7 @@
 
 # print(result)
 item_1 = "meckatzer"
-item_2 = "becks"
+item_2 = "augustiner"
 
 # is_dublicated = item_1 == item_2
 
