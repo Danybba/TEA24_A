@@ -1,7 +1,7 @@
 '''Wir wollen Meilen in Kilometer umrechnen und ausgeben.
 Bitte schreibe das Programm'''
 
-# Author: Daniel S.
+# Author: Daniel Sch.
 # Date: 16.01.2025
 
 ### CONSTANTS

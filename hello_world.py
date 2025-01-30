@@ -33,7 +33,7 @@ item_2 = "becks"
 
 # text = "string"
 anzahl = 5
-kosten = 1.6
+kosten = 1.6778
 # boolsche = True
 
 # formated print
