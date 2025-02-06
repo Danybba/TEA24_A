@@ -1,7 +1,7 @@
 Danybba
 Florian-Germann
 Melvin Zeuner
-Suppentopf
+Thomas Martin
 TeddyHDYT
 Piet
 Fabian Wiedemann
@@ -11,3 +11,4 @@ David Binder
 JonasHeselschwerdt
 Wuzelzwerg
 KeinImperium
+Brizzi
