@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 Daniel S.
 Moritz M.
 Fabian W.
@@ -10,4 +8,4 @@ David B.
 Noah S.
 Florian G.
 Peter Z.
->>>>>>> Stashed changes
+

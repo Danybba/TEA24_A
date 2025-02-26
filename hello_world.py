@@ -41,6 +41,36 @@ kosten = 1.6778
 
 # print( str(anzahl) + " messgage")
 
-val = input("Enter a value: ")
-print(val)
-print("git")
+# val = input("Enter a value: ")
+# print(val)
+# print("git")
+
+# condition = False
+
+# if condition:
+#     print("condition is true")
+
+# age = int(input("Enter your age: "))
+
+# if (age >= 18):
+#     print("You are an adult")
+
+# hour = int(input("Enter the hour: "))
+
+# if hour < 12:
+#     print("Good morning")
+# elif hour < 18:
+#     print("Good afternoon")
+# elif hour < 22:
+#     print("Good evening")
+# else:
+#     print("Good night")
+
+age = int(input("Enter your age: "))
+has_permission = True
+has_license = True	
+alcohol_level = 0.5
+has_insurance = True
+
+if (18 <= age) and ((True == has_permission) or (has_license == True)) and (alcohol_level <= 0.3) and has_insurance:
+    print("You are allowed to drive")
