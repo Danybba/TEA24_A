@@ -25,15 +25,15 @@
 
 # result = number_1 >= number_2
 
-# print(result)
-item_1 = "meckatzer"
-item_2 = "augustiner"
+# # print(result)
+# item_1 = "meckatzer"
+# item_2 = "augustiner"
 
 # is_dublicated = item_1 == item_2
 
 # text = "string"
-anzahl = 5
-kosten = 1.6778
+# anzahl = 5
+# kosten = 1.6778
 # boolsche = True
 
 # formated print
@@ -66,11 +66,92 @@ kosten = 1.6778
 # else:
 #     print("Good night")
 
-age = int(input("Enter your age: "))
-has_permission = True
-has_license = True	
-alcohol_level = 0.5
-has_insurance = True
+# age = int(input("Enter your age: "))
+# has_permission = True
+# has_license = True	
+# alcohol_level = 0.5
+# has_insurance = True
 
-if (18 <= age) and ((True == has_permission) or (has_license == True)) and (alcohol_level <= 0.3) and has_insurance:
-    print("You are allowed to drive")
+# if (18 <= age) and ((True == has_permission) or (has_license == True)) and (alcohol_level <= 0.3) and has_insurance:
+#     print("You are allowed to drive")
+
+
+# wallet = 3
+# wallet = wallet + 1
+# wallet = wallet - 2
+# print(wallet)
+
+# name = "Daniel"
+# name = name + " Schäftner"
+# print(name)
+
+# sales = 5
+# sales += 2
+# sales -= 1
+# sales *= 2
+# sales /= 2  
+# print(sales)
+
+# counter = 3
+
+# while counter < 8:
+#     print(counter)
+#     counter += 2
+
+
+# for i in range(7, 2, -2):
+#     print(i, end=" ")
+
+
+# lines = int(input("Enter the number of lines: "))
+
+# for i in range(1, lines + 1):
+#     print('*' * i)
+
+# for i in range(lines - 1, 0, -1):
+#     print('*' * i)
+
+
+# a, b = 0, 1
+# while b <= 50:
+#     print(b)
+#     a, b = b, a + b
+
+
+# def greet_user(name):
+#     print(f"Hello {name}")
+
+
+# greet_user("Anna")
+# greet_user("Tom")
+
+# def display_half(number):
+#     print(number / 2)
+
+# def display_double(number):
+#     print(number * 2)
+
+# def add_two_numbers(number_1, number_2):
+#     return number_1 + number_2
+
+
+# display_half(10)
+
+# display_double(10)
+
+# result = add_two_numbers(10, 20)
+
+# print(result)
+
+
+
+def add_bonus(salary):
+    global start_value
+    start_value = 200
+    bonus = 100
+    print(salary + bonus + start_value)
+
+
+add_bonus(1000)
+
+print(start_value)
